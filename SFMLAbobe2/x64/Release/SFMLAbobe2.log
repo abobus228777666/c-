@@ -1,0 +1,29 @@
+﻿  SFMLAbobe2.cpp
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\Player.h(26,20): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\Player.h(27,24): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\Player.h(28,21): error C2065: TileMap: необъявленный идентификатор
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\Player.h(33,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\Player.h(39,48): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\Player.h(66,52): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\Player.h(66,45): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(14,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(17,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(20,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(23,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(26,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(29,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(96,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(105,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(115,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(125,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(135,29): warning C4305: =: усечение из "double" в "float"
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(160,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Admin\source\repos\SFMLAbobe2\SFMLAbobe2\SFMLAbobe2.cpp(160,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
